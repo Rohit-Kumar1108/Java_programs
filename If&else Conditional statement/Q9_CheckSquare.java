@@ -1,3 +1,7 @@
+
+
+// check SDquire 
+
 import java.util.Scanner;
 
 public class Q9_CheckSquare {
@@ -11,7 +15,7 @@ public class Q9_CheckSquare {
         if (lenght==breadth) {
             System.out.println("yes it is square ");
         }else{
-            System.out.println("not square :import java.util");
+            System.out.println("not square :");
         }
     }
 }

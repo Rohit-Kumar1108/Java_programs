@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class SumOfTwoNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -8,6 +9,6 @@ public class SumOfTwoNumber {
         int secondNum=sc.nextInt();
         int sum=firstNum+secondNum;
         System.out.println("Sum of two number  =  " +sum);
-
+        sc.close();
     }
 }

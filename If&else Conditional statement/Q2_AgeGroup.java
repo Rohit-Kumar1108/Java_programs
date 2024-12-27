@@ -1,5 +1,5 @@
 
-// Write a program to devide people into 3 age groups depending upon their age.
+// Write a program to devide people into 3 age groups depending upon their age .
 
 import java.util.Scanner;
 public class Q2_AgeGroup {

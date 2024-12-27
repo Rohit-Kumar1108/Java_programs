@@ -2,7 +2,6 @@
 // Give the lenght and breadth of a rectangle, write a program to find whetherv the area of the rectangle is greater than its perimeter.
 
 import java.util.Scanner;
-
 public class Q8_rectangleAndperimeter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
