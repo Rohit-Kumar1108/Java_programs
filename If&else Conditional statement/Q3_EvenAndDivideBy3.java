@@ -8,7 +8,7 @@ public class Q3_EvenAndDivideBy3 {
         System.out.println("Enter a Number");
         int n=sc.nextInt();
         if (n%2==0&&n%3==0) {
-            System.out.println("Found result = "+n);
+            System.out.println("Found Result = "+n);
         }
     }
     

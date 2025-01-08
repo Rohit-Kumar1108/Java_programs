@@ -1,4 +1,6 @@
 
+//  greater of three number
+
 import java.util.Scanner;
 public class GreaterNUM {
     public static void main(String[] args) {

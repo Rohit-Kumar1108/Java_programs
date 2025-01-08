@@ -14,9 +14,9 @@ public class Q7_ProfitOrLoss {
 
 
         if (sp>cp) {
-            System.out.println("Your profit is = "+(sp-cp));
+            System.out.println("Your Profit is = "+(sp-cp));
         }else{
-            System.out.println("You incurred a loss = "+ (sp-cp));
+            System.out.println("You Incurred a Loss = "+ (sp-cp));
         }
         
     }
