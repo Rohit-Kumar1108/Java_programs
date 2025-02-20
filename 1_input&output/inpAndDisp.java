@@ -4,7 +4,7 @@ class inpAndDisp{
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter any Number : ");
         int Number=sc.nextInt();
-        System.out.println("you have entered this number :  "+ Number);
+        System.out.println("You have entered this number :  "+ Number);
         
     }
     
