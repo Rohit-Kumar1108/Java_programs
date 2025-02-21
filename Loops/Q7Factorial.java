@@ -1,3 +1,7 @@
+
+
+// Write program to factorial of a number 
+
 import java.util.Scanner;
 public class Q7Factorial {
     public static void main(String[] args) {

@@ -1,3 +1,6 @@
+
+// Write aprogram to input a number and display it
+
 import java.util.Scanner;
 class inpAndDisp{
     public static void main(String[] args) {

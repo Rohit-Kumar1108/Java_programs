@@ -1,4 +1,6 @@
 
+// Count digit of a number 
+
 import java.util.Scanner;
 public class Q12_CountDigitofNumber {
     public static void main(String[] args) {

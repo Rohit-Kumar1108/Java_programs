@@ -1,6 +1,6 @@
 
 
-// Reverse of a number 
+// Reverse of a Number 
 
 import java.util.Scanner;
 public class Q14_ReverseOfDigit {
